@@ -1,0 +1,1 @@
+# quasar-amplify-serverless-app
